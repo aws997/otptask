@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514869363467",
+    "project_id": "mytaskaws",
+    "storage_bucket": "mytaskaws.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514869363467:android:2a52c34dff93614b6cd80e",
+        "android_client_info": {
+          "package_name": "com.example.awsbasimtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514869363467-i358ip79a7ac5t5paoodgnj9jj00s2kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu86bbww-ZujCuYc898rogsCuG9CWwaJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514869363467-i358ip79a7ac5t5paoodgnj9jj00s2kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
