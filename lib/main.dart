@@ -18,6 +18,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return  GetMaterialApp(home: Otp());
+    return  GetMaterialApp(home: Login());
   }
 }
